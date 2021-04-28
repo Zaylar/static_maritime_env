@@ -1,0 +1,7 @@
+README.md
+setup.py
+staticMaritime.egg-info/PKG-INFO
+staticMaritime.egg-info/SOURCES.txt
+staticMaritime.egg-info/dependency_links.txt
+staticMaritime.egg-info/requires.txt
+staticMaritime.egg-info/top_level.txt
